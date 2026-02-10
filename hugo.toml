@@ -1,7 +1,6 @@
 baseURL = "https://devzoa.com/"
 languageCode = "en-gb"
 title = "Devzoa"
-theme = ""
 
 [params]
   description = "Expertise in Delivering Custom Software Solutions"
