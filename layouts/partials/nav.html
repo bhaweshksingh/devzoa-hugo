@@ -1,8 +1,8 @@
 <header class="fixed-top bg-light shadow-sm">
   <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container">
-      <a class="navbar-brand" href="/">
-        <img src="/images/logo.svg" alt="Devzoa" width="70" class="d-inline-block align-text-top">
+      <a class="navbar-brand" href="{{ "/" | relURL }}">
+        <img src="{{ "images/logo.svg" | relURL }}" alt="Devzoa" width="70" class="d-inline-block align-text-top">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -15,13 +15,13 @@
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Services</a>
               <ul class="dropdown-menu">
                 {{ range $.Site.Menus.services }}
-                <li><a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a></li>
+                <li><a class="dropdown-item" href="{{ .URL | relURL }}">{{ .Name }}</a></li>
                 {{ end }}
               </ul>
             </li>
             {{ else }}
             <li class="nav-item">
-              <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+              <a class="nav-link" href="{{ .URL | relURL }}">{{ .Name }}</a>
             </li>
             {{ end }}
           {{ end }}

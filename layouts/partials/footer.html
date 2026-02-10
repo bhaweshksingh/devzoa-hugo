@@ -13,7 +13,7 @@
         <h5>Useful Links</h5>
         <ul class="list-unstyled">
           {{ range .Site.Menus.footer_links }}
-          <li class="mb-1"><a href="{{ .URL }}" class="text-muted text-decoration-none">{{ .Name }}</a></li>
+          <li class="mb-1"><a href="{{ .URL | relURL }}" class="text-muted text-decoration-none">{{ .Name }}</a></li>
           {{ end }}
         </ul>
       </div>
@@ -21,7 +21,7 @@
         <h5>Our Services</h5>
         <ul class="list-unstyled">
           {{ range .Site.Menus.services }}
-          <li class="mb-1"><a href="{{ .URL }}" class="text-muted text-decoration-none">{{ .Name }}</a></li>
+          <li class="mb-1"><a href="{{ .URL | relURL }}" class="text-muted text-decoration-none">{{ .Name }}</a></li>
           {{ end }}
         </ul>
       </div>
@@ -37,7 +37,7 @@
     </div>
     <div class="text-center text-muted border-top pt-3 mt-3">
       <p class="mb-1">
-        <a href="/privacy/" class="text-muted text-decoration-none">Privacy Policy</a>
+        <a href="{{ "privacy/" | relURL }}" class="text-muted text-decoration-none">Privacy Policy</a>
       </p>
       <small>Copyright &copy; {{ now.Year }} - Devzoa | All Rights Reserved.</small>
     </div>
