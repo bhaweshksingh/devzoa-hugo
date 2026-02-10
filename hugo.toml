@@ -87,6 +87,14 @@ title = "Devzoa"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = false
+    noClasses = true
+    style = "dracula"
+    tabWidth = 4
 
 [outputs]
   home = ["HTML"]

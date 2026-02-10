@@ -1,7 +1,7 @@
 ---
 title: "Tech Debt: A Juggernaut in the Limelight"
 date: 2023-06-07
-description: "![](https://cdn-images-1.medium.com/max/1024/0*djvHoFpeUrB8U698)*Photo by [Jeremy Perkins](https://unsplash.com/@jeremyperkins?utm_source=medium&utm_m"
+description: "Buckle up folks, this month, tech debt is stealing the spotlight. Remember the aviation industry Christmas chaos with thousands of cancelled flights? And then l"
 author: "Bhawesh Kumar Singh"
 image: "images/blog/tech-debt.jpg"
 categories: ["Software Development", "Tech Debt"]
@@ -36,8 +36,11 @@ The operational side of a business is a fertile breeding ground for tech debt. B
 ### Tackling Tech Debt Like a Pro
 ![](https://cdn-images-1.medium.com/max/1024/0*kXy01JjikfZ-oPop)*Photo by [Cytonn Photography](https://unsplash.com/@cytonn_photography?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)*
 Are you ready to kick tech debt to the curb? Here are some pro tips:
-- **Listen to your developers**. They’re on the front lines, battling tech debt every day.- **Listen to your customers**. They often spot hiccups that hint at broader tech debt issues.- **Monitor increases in delays and costs**. Tech debt could be your hidden culprit.- **Measure your tech debt**. Use metrics like customer feedback and delayed operations.- **Prioritize based on risk**. You can’t fight all battles at once. Pick your fights wisely.- **Allocate resources**. Trust your tech leaders to use their budget effectively.- **Cultivate continuous improvement**. Not only does it fight tech debt, it brings wider benefits.
+- **Listen to your developers**. They’re on the front lines, battling tech debt every day.
+- **Listen to your customers**. They often spot hiccups that hint at broader tech debt issues.
+- **Monitor increases in delays and costs**. Tech debt could be your hidden culprit.
+- **Measure your tech debt**. Use metrics like customer feedback and delayed operations.
+- **Prioritize based on risk**. You can’t fight all battles at once. Pick your fights wisely.
+- **Allocate resources**. Trust your tech leaders to use their budget effectively.
+- **Cultivate continuous improvement**. Not only does it fight tech debt, it brings wider benefits.
 Managing tech debt is a strategic game. Short-term cost-cutting might seem smart, but the long-term consequences of tech debt can be devastating. A balanced approach, investing in new features while tackling tech debt, can give your business a strategic edge. It not only improves your systems and supports your teams but might also unlock new value from older systems, beefing up your bottom line.
-![](https://cdn-images-1.medium.com/max/1024/1*AeNQK7bSUJaOBPgq83WA4Q.png)
-*Contact us today and let’s embark on an extraordinary journey together. Visit our website at *[*https://devzoa.com*](https://devzoa.com/)* to explore more.*
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=5a8996e6ce14)

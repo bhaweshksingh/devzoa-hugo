@@ -66,6 +66,100 @@ footer a:hover {
   margin-bottom: 0.5rem;
 }
 
+/* Blog Content */
+.content {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #333;
+}
+
+.content p {
+  margin-bottom: 1.25rem;
+}
+
+.content h3, .content h4 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.content blockquote {
+  border-left: 4px solid #ee9749;
+  padding: 0.75rem 1.25rem;
+  margin: 1.5rem 0;
+  background: #fdf6ee;
+  border-radius: 0 8px 8px 0;
+  color: #555;
+  font-style: italic;
+}
+
+.content blockquote p {
+  margin-bottom: 0;
+}
+
+.content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+
+/* Code Blocks - GitHub-like styling */
+.content pre,
+.highlight pre {
+  background: #282a36 !important;
+  border-radius: 8px;
+  padding: 1.25rem;
+  margin: 1.5rem 0;
+  overflow-x: auto;
+  font-size: 0.875rem;
+  line-height: 1.6;
+  border: 1px solid #44475a;
+}
+
+.content pre code,
+.highlight pre code {
+  font-family: 'JetBrains Mono', 'Fira Code', 'SF Mono', 'Cascadia Code', Consolas, 'Courier New', monospace;
+  font-size: 0.875rem;
+  background: transparent !important;
+  padding: 0;
+  border-radius: 0;
+  color: #f8f8f2;
+}
+
+/* Inline code */
+.content code {
+  font-family: 'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace;
+  background: #f0f0f0;
+  color: #e74c3c;
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+/* Highlight container */
+.highlight {
+  margin: 1.5rem 0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+/* Scrollbar for code blocks */
+.content pre::-webkit-scrollbar,
+.highlight pre::-webkit-scrollbar {
+  height: 6px;
+}
+
+.content pre::-webkit-scrollbar-track,
+.highlight pre::-webkit-scrollbar-track {
+  background: #282a36;
+}
+
+.content pre::-webkit-scrollbar-thumb,
+.highlight pre::-webkit-scrollbar-thumb {
+  background: #6272a4;
+  border-radius: 3px;
+}
+
 /* Blog Cards */
 .card-img-top {
   border-radius: 12px 12px 0 0;
