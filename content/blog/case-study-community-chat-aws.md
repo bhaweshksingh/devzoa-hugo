@@ -3,7 +3,7 @@ title: "Case Study: Implementing Community Chat Feature Using AWS AppSync with A
 date: 2023-06-07
 description: "In this case study, we explore the implementation of a community chat feature for a UK-based mobile app client using AWS AppSync and AWS Amplify."
 author: "Bhawesh Kumar Singh"
-image: "/images/blog/Case-Study-Implementing-Community-Chat-Feature-for-a-UK-Based-Mobile-App-Client-Using-AWS-AppSync-with-AWS-Amplify-1024x682.jpeg"
+image: "images/blog/Case-Study-Implementing-Community-Chat-Feature-for-a-UK-Based-Mobile-App-Client-Using-AWS-AppSync-with-AWS-Amplify-1024x682.jpeg"
 categories: ["Software Development"]
 ---
 

@@ -3,7 +3,7 @@ title: "Navigating Data Residency for Global Insurance Ecosystems"
 date: 2025-04-23
 description: "In the evolving landscape of global insurance, managing data residency requirements is a critical challenge for companies operating across multiple ju"
 author: "Bhawesh Kumar Singh"
-image: "/images/blog/data-residency-insurance.jpg"
+image: "images/blog/data-residency-insurance.jpg"
 categories: ["Architecture", "Insurance"]
 medium_url: "https://medium.com/@bhaweshkumarsingh/navigating-data-residency-for-global-insurance-ecosystems-d9b21f074921"
 ---

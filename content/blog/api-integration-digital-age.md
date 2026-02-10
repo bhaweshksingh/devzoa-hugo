@@ -3,7 +3,7 @@ title: "Unleashing the Power of API Integration: Transforming Business Operation
 date: 2023-06-07
 description: "In today's fast-paced business landscape, API integration is a critical component for organizations aiming to streamline operations and gain a competitive edge."
 author: "Bhawesh Kumar Singh"
-image: "/images/blog/Unleashing-the-Power-of-API-Integration-Transforming-Business-Operations-in-the-Digital-Age-1024x682.jpeg"
+image: "images/blog/Unleashing-the-Power-of-API-Integration-Transforming-Business-Operations-in-the-Digital-Age-1024x682.jpeg"
 categories: ["Software Development"]
 ---
 

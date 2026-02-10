@@ -3,7 +3,7 @@ title: "Tech CIO’s Top 5 Strategies You Can Borrow in 2023"
 date: 2023-06-07
 description: "![](https://cdn-images-1.medium.com/max/1024/0*T1ndC6x9HzOZ5qdw)*Photo by [JESHOOTS.COM](https://unsplash.com/@jeshoots?utm_source=medium&utm_medium=r"
 author: "Bhawesh Kumar Singh"
-image: "/images/blog/tech-cios-strategies.jpg"
+image: "images/blog/tech-cios-strategies.jpg"
 categories: ["Software Development", "Strategy"]
 medium_url: "https://medium.com/@bhaweshkumarsingh/tech-cios-top-5-strategies-you-can-borrow-in-2023-2353db832ac8"
 ---

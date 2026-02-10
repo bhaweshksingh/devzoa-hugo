@@ -3,7 +3,7 @@ title: "Tech Debt: A Juggernaut in the Limelight"
 date: 2023-06-07
 description: "![](https://cdn-images-1.medium.com/max/1024/0*djvHoFpeUrB8U698)*Photo by [Jeremy Perkins](https://unsplash.com/@jeremyperkins?utm_source=medium&utm_m"
 author: "Bhawesh Kumar Singh"
-image: "/images/blog/tech-debt.jpg"
+image: "images/blog/tech-debt.jpg"
 categories: ["Software Development", "Tech Debt"]
 medium_url: "https://medium.com/@bhaweshkumarsingh/tech-debt-a-juggernaut-in-the-limelight-5a8996e6ce14"
 ---

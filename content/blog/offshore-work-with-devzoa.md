@@ -3,7 +3,7 @@ title: "The Perfect Blend: Offshore Work with DevZoa in India Offers Superior Qu
 date: 2023-07-09
 description: "Offshore work, an innovative global strategy, is revolutionizing today's business landscape. DevZoa has successfully leveraged this strategy."
 author: "Bhawesh Kumar Singh"
-image: "/images/blog/The-Perfect-Blend-Offshore-Work-with-DevZoa-in-India-Offers-Superior-Quality-at-a-Fraction-of-the-Cost-1024x681.jpeg"
+image: "images/blog/The-Perfect-Blend-Offshore-Work-with-DevZoa-in-India-Offers-Superior-Quality-at-a-Fraction-of-the-Cost-1024x681.jpeg"
 categories: ["Software Development"]
 ---
 

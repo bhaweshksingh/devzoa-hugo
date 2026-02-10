@@ -3,7 +3,7 @@ title: "The Decisive Battle: In-house Vs. Freelance Development"
 date: 2023-06-07
 description: "![](https://cdn-images-1.medium.com/max/1024/0*EjbW_qgoI37uHAz5)*Photo by [Mapbox](https://unsplash.com/de/@mapbox?utm_source=medium&utm_medium=referr"
 author: "Bhawesh Kumar Singh"
-image: "/images/blog/in-house-vs-freelance.jpg"
+image: "images/blog/in-house-vs-freelance.jpg"
 categories: ["Software Development"]
 medium_url: "https://medium.com/@bhaweshkumarsingh/the-decisive-battle-in-house-vs-freelance-development-49fd26ae2a9e"
 ---

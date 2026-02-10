@@ -3,7 +3,7 @@ title: "So, I Thought I Knew Strings in Go: A Jon Snow Moment"
 date: 2025-06-22
 description: "That’s me with Go strings. I thought I had them figured out after coding with them for a while. Turns out, I was in for a surprise. Let’s dive into my"
 author: "Bhawesh Kumar Singh"
-image: "/images/blog/strings-in-go.jpg"
+image: "images/blog/strings-in-go.jpg"
 categories: ["Go", "Programming"]
 medium_url: "https://medium.com/@bhaweshkumarsingh/so-i-thought-i-knew-strings-in-go-a-jon-snow-moment-cb67c8d2d1b6"
 ---

@@ -3,7 +3,7 @@ title: "Picking the Right Tech Stack for Your Business — A Case Study Extr
 date: 2023-06-07
 description: "### Picking the Right Tech Stack for Your Business — A Case Study Extravaganza ![](https://cdn-images-1.medium.com/max/1024/0*O06iOeiWzWI3sjDg)*Photo "
 author: "Bhawesh Kumar Singh"
-image: "/images/blog/tech-stack-case-study.jpg"
+image: "images/blog/tech-stack-case-study.jpg"
 categories: ["Software Development", "Tech Stack"]
 medium_url: "https://medium.com/@bhaweshkumarsingh/picking-the-right-tech-stack-for-your-business-a-case-study-extravaganza-cb85d2ac0fc2"
 ---

@@ -3,7 +3,7 @@ title: "Stop Wasting Tokens: Build Your Own Multi-Provider LLM Gateway in Go"
 date: 2026-01-26
 description: "*A production-grade approach to load balancing, failover, and cost optimization across OpenAI, Azure, Gemini, and more.*  ### The £10,000 Wake-Up Call"
 author: "Bhawesh Kumar Singh"
-image: "/images/blog/llm-gateway-go.png"
+image: "images/blog/llm-gateway-go.png"
 categories: ["Go", "AI", "Architecture"]
 medium_url: "https://medium.com/@bhaweshkumarsingh/stop-wasting-tokens-build-your-own-multi-provider-llm-gateway-in-go-21a55832f618"
 ---

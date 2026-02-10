@@ -14,8 +14,8 @@ title = "Devzoa"
   title = "Expertise in Delivering Custom Software Solutions"
   subtitle = "Whether you need to develop a new product or streamline your existing software systems, we have the expertise and experience to help you achieve your goals."
   buttonText = "Know More"
-  buttonURL = "/contact/"
-  image = "/images/hero-img.png"
+  buttonURL = "contact/"
+  image = "images/hero-img.png"
 
 [params.social]
   twitter = "#"

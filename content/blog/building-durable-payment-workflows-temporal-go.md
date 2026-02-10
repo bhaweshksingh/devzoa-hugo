@@ -3,7 +3,7 @@ title: "Building Durable Payment Workflows with Temporal in Go: My Lessons from 
 date: 2026-01-29
 description: "### Building Durable Payment Workflows with Temporal in Go: My Lessons from Engineering a UK Fintech’s Production System  How we built a production pa"
 author: "Bhawesh Kumar Singh"
-image: "/images/blog/temporal-payment-workflows.png"
+image: "images/blog/temporal-payment-workflows.png"
 categories: ["Go", "Fintech", "Architecture"]
 medium_url: "https://medium.com/@bhaweshkumarsingh/building-durable-payment-workflows-with-temporal-in-go-my-lessons-from-engineering-a-uk-fintechs-f28b647d8155"
 ---

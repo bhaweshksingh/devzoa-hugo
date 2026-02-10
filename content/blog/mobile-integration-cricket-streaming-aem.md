@@ -3,7 +3,7 @@ title: "Unleashing the Power of Mobile Integration: Top Strategies for Cricket L
 date: 2023-06-07
 description: "In the digital era, enterprises strive to deliver seamless web-to-mobile experiences. We walk you through four mobile integration strategies."
 author: "Bhawesh Kumar Singh"
-image: "/images/blog/Unleashing-the-Power-of-Mobile-Integration-Top-Strategies-for-Cricket-Live-Streaming-Platforms-with-AEM-React-and-Cordova-1024x682.jpeg"
+image: "images/blog/Unleashing-the-Power-of-Mobile-Integration-Top-Strategies-for-Cricket-Live-Streaming-Platforms-with-AEM-React-and-Cordova-1024x682.jpeg"
 categories: ["Software Development"]
 ---
 

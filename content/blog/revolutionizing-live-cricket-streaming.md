@@ -3,7 +3,7 @@ title: "Revolutionizing Live Cricket Streaming: Unleashing the Power of React Na
 date: 2023-06-07
 description: "The dynamic sports world enjoys a fervent cricket fanbase, captivated by the thrill of live matches, now conveniently available via mobile apps."
 author: "Bhawesh Kumar Singh"
-image: "/images/blog/Unleashing-the-Power-of-Mobile-Integration-Top-Strategies-for-Cricket-Live-Streaming-Platforms-with-AEM-React-and-Cordova-1024x682.jpeg"
+image: "images/blog/Unleashing-the-Power-of-Mobile-Integration-Top-Strategies-for-Cricket-Live-Streaming-Platforms-with-AEM-React-and-Cordova-1024x682.jpeg"
 categories: ["Software Development"]
 ---
 

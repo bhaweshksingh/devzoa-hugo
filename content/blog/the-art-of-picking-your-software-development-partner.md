@@ -3,7 +3,7 @@ title: "The Art of Picking Your Software Development Partner: The 2023 Edition"
 date: 2023-06-07
 description: "![](https://cdn-images-1.medium.com/max/1024/0*JX9H1Cj7lGiJ0Tc9)*Photo by [Ardian Lumi](https://unsplash.com/@ardianlumi?utm_source=medium&utm_medium="
 author: "Bhawesh Kumar Singh"
-image: "/images/blog/software-dev-partner.jpg"
+image: "images/blog/software-dev-partner.jpg"
 categories: ["Software Development"]
 medium_url: "https://medium.com/@bhaweshkumarsingh/the-art-of-picking-your-software-development-partner-the-2023-edition-5f0e50bd238a"
 ---

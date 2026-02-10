@@ -3,7 +3,7 @@ title: "Choosing Your Remote Developer Hub: Why India Emerges Top"
 date: 2023-07-09
 description: "The adoption of a remote workforce within the software technology industry has skyrocketed, prompting businesses worldwide to scrutinize global regions."
 author: "Bhawesh Kumar Singh"
-image: "/images/blog/Choosing-Your-Remote-Developer-Hub-Why-India-Emerges-Top-1024x678.jpeg"
+image: "images/blog/Choosing-Your-Remote-Developer-Hub-Why-India-Emerges-Top-1024x678.jpeg"
 categories: ["Software Development"]
 ---
 
