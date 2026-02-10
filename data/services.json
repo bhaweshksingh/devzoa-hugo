@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Software Development",
+    "icon": "fa-solid fa-code",
+    "description": "Our dedicated team of developers work closely with clients to create robust software solutions tailored to their specific needs."
+  },
+  {
+    "title": "Architecture Design",
+    "icon": "fa-solid fa-drafting-compass",
+    "description": "We provide expert architecture design services to ensure that your software is scalable, reliable, and secure."
+  },
+  {
+    "title": "Quality Assurance",
+    "icon": "fa-solid fa-clipboard-check",
+    "description": "Our experienced quality assurance team ensures that your software is thoroughly tested and meets the highest standards of quality and performance."
+  },
+  {
+    "title": "Data Analytics",
+    "icon": "fa-solid fa-chart-line",
+    "description": "We help you leverage the power of data with our data analytics services, providing insights and analysis to help you make informed business decisions."
+  },
+  {
+    "title": "Cloud Computing",
+    "icon": "fa-solid fa-cloud",
+    "description": "Our cloud computing solutions provide flexible, scalable, and cost-effective hosting options for your software, backed by our expert support."
+  },
+  {
+    "title": "Blockchain Development",
+    "icon": "fa-solid fa-link",
+    "description": "We have deep expertise in blockchain technology and can help you develop and deploy decentralized applications tailored to your business needs."
+  }
+]

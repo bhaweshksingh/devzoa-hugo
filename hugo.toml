@@ -1,0 +1,93 @@
+baseURL = "https://devzoa.com/"
+languageCode = "en-gb"
+title = "Devzoa"
+theme = ""
+
+[params]
+  description = "Expertise in Delivering Custom Software Solutions"
+  author = "Bhawesh Kumar Singh"
+  phone = "+91 8178534148"
+  email = "devzoatech@gmail.com"
+  address = "Prestige 13091, Prestige Tranquility, Bengaluru 560049, Karnataka"
+  calendlyURL = "https://calendly.com/devzoa/book-your-consultation"
+
+[params.hero]
+  title = "Expertise in Delivering Custom Software Solutions"
+  subtitle = "Whether you need to develop a new product or streamline your existing software systems, we have the expertise and experience to help you achieve your goals."
+  buttonText = "Know More"
+  buttonURL = "/contact/"
+  image = "/images/hero-img.png"
+
+[params.social]
+  twitter = "#"
+  facebook = "#"
+  linkedin = "#"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+  [[menu.main]]
+    name = "About Us"
+    url = "/about/"
+    weight = 3
+  [[menu.main]]
+    name = "Services"
+    url = "#"
+    weight = 4
+    hasChildren = true
+  [[menu.main]]
+    name = "Contact Us"
+    url = "/contact/"
+    weight = 6
+
+  [[menu.services]]
+    name = "Software Development"
+    url = "/services/software-development/"
+    weight = 1
+  [[menu.services]]
+    name = "Cloud Services"
+    url = "/services/cloud-services/"
+    weight = 2
+  [[menu.services]]
+    name = "AI and Machine Learning"
+    url = "/services/ai-and-machine-learning/"
+    weight = 3
+  [[menu.services]]
+    name = "Mobile App Development"
+    url = "/services/mobile-app-development/"
+    weight = 4
+
+  [[menu.footer_links]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.footer_links]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+  [[menu.footer_links]]
+    name = "About Us"
+    url = "/about/"
+    weight = 3
+  [[menu.footer_links]]
+    name = "Contact Us"
+    url = "/contact/"
+    weight = 4
+  [[menu.footer_links]]
+    name = "Privacy Policy"
+    url = "/privacy/"
+    weight = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML"]

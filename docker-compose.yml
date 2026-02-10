@@ -1,0 +1,17 @@
+services:
+  devzoa:
+    build: .
+    ports:
+      - "9099:80"
+    restart: unless-stopped
+
+  # Development mode with live reload
+  devzoa-dev:
+    image: hugomods/hugo:exts
+    command: hugo server --bind 0.0.0.0 --port 1313 --buildDrafts --disableFastRender
+    ports:
+      - "1313:1313"
+    volumes:
+      - .:/src
+    profiles:
+      - dev

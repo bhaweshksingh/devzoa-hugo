@@ -1,0 +1,31 @@
+{{ define "main" }}
+<div style="padding-top:80px;">
+  <div class="container py-5">
+    <h1 class="fw-bold mb-4">{{ .Title }}</h1>
+    {{ .Content }}
+    {{ if .Pages }}
+    <div class="row g-4">
+      {{ range .Pages }}
+      <div class="col-lg-4 col-md-6">
+        <div class="card h-100 border-0 shadow-sm">
+          {{ if .Params.image }}
+          <img src="{{ .Params.image }}" class="card-img-top" alt="{{ .Title }}" style="height:200px;object-fit:cover;">
+          {{ end }}
+          <div class="card-body">
+            <h5 class="card-title fw-bold">{{ .Title }}</h5>
+            <p class="card-text text-muted small">{{ .Summary | truncate 150 }}</p>
+            <a href="{{ .Permalink }}" class="btn btn-sm btn-outline-primary">Read More</a>
+          </div>
+          {{ if .Date }}
+          <div class="card-footer bg-transparent border-0">
+            <small class="text-muted">{{ .Date.Format "January 2, 2006" }}</small>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

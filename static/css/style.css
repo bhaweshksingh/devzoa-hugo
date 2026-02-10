@@ -1,0 +1,122 @@
+/* Devzoa Custom Styles */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding-top: 56px;
+}
+
+/* Hero Section */
+#hero h1 {
+  color: #2c3e50;
+}
+
+#hero h2 {
+  font-size: 1.1rem;
+}
+
+/* Services Section */
+#services .card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 12px;
+}
+
+#services .card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Testimonials */
+#testimonials .card {
+  border-radius: 12px;
+  transition: transform 0.3s ease;
+}
+
+#testimonials .card:hover {
+  transform: translateY(-3px);
+}
+
+/* Footer */
+footer h5 {
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+footer a:hover {
+  color: #ee9749 !important;
+}
+
+/* Service Pages */
+.content h2 {
+  color: #2c3e50;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.content h3 {
+  color: #34495e;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.content ul {
+  padding-left: 1.5rem;
+}
+
+.content li {
+  margin-bottom: 0.5rem;
+}
+
+/* Blog Cards */
+.card-img-top {
+  border-radius: 12px 12px 0 0;
+}
+
+/* Navbar */
+.navbar-brand img {
+  transition: transform 0.3s ease;
+}
+
+.navbar-brand:hover img {
+  transform: scale(1.05);
+}
+
+.nav-link {
+  font-weight: 500;
+  padding: 0.5rem 1rem !important;
+}
+
+.nav-link:hover {
+  color: #ee9749 !important;
+}
+
+/* Back to top button */
+#back-to-top {
+  opacity: 0.8;
+  transition: opacity 0.3s ease;
+}
+
+#back-to-top:hover {
+  opacity: 1;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Section spacing */
+section {
+  scroll-margin-top: 70px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  #hero {
+    min-height: 70vh !important;
+    text-align: center;
+  }
+
+  #hero h1 {
+    font-size: 2rem;
+  }
+}
